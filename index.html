@@ -18,13 +18,14 @@
       <div class="navbar">
         <img class="logo" src="./assets/logo2.png" alt="logo playstation" />
         <nav>
-          <ul>
-            <li> <a class="nav-link">Consoles</a></li>
-            <li> <a class="nav-link">Acessórios</a></li>
-            <li> <a class="nav-link">Controles</a></li>
-            <li> <a class="nav-link">Outros</a></li>
+          <ul id="menu-list">
+            <li class="nav-li"> <a class="nav-link">Consoles</a></li>
+            <li class="nav-li"> <a class="nav-link">Acessórios</a></li>
+            <li class="nav-li"> <a class="nav-link">Controles</a></li>
+            <li class="nav-li"> <a class="nav-link">Outros</a></li>
           </ul>
         </nav>
+        <img src="./assets/menu.png" alt="menu botao" class="menu-icon" onclick="showMenu()">
       </div>
 
       <div class="row">
@@ -33,7 +34,7 @@
           <h3>Wireless Controller for xbox</h3>
           <p>Controle Original</p>
           <h4>R$ 222,50</h4>
-          <button class="buy">Comprar agora</button>
+          <button class="buy">Comprar agora <img src="./assets/arrow.png" alt="seta"></button>
         </div>
 
         <div class="column-2">
@@ -52,4 +53,5 @@
       </div>
     </div>
   </body>
+  <script src="./script.js"></script>
 </html>
