@@ -3,7 +3,7 @@
 ## Vizualize o projeto:
 (https://luuizpaes.github.io/xbox-store/)
 
-<p>Página desenvolvimenta com html, css e  javascript. Página totalmente responsiva com animações em alguns elementos, fazendo com que página fique mais agradável ao usuário.</p>
+<p>Página desenvolvida com html, css e  javascript. Página totalmente responsiva com animações em alguns elementos, fazendo com que página fique mais agradável ao usuário.</p>
 
 ## mockup do projeto:
 <img src="https://github.com/LuuizPaes/xbox-store/blob/main/assets/mockup-projeto.png?raw=true" alt="mockup-projeto">
